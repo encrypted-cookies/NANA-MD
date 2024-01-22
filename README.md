@@ -109,7 +109,7 @@
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like NANA-MD🌟
 </h2>
 
 #### Thanks To 
