@@ -1,13 +1,13 @@
 {
-               "name": "KING-MD",
+               "name": "NANA-MD",
                "version": "1.0.1",
                "description": "Multi Device whatsapp bot by Naveed Dogar.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
-                "stop": "pm2 stop king"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name nana",
+                "stop": "pm2 stop nana"
                 },
                "author": "SamPandey001",
               "dependencies": {
