@@ -1,18 +1,18 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
+  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43--">
+    <img alt=Support height="350" src="https://mallucampaign.in/images/img_1705920458.jpg"> 
     </p>
-<h1 align="center">    KING-MULTI-DEVICE (BETA)
+<h1 align="center">    NANA-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Max Ni9e🍟 To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/encrypted-cookies"><img title="Author" src="https://img.shields.io/badge/NANA_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,10 +23,10 @@
 
 
    <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <a href="https://github.com/encrypted-cookies/NANA-MD/fork">
+    <img src="https://img.shields.io/github/forks/encrypted-cookies/NANA-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
+  <a href="https://github.com/encrypted-cookies/NANA-MD/stargazers">
     <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
       
   
@@ -47,7 +47,7 @@
 
 
 ## 1 *`⨷ FORK THIS REPO`*
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/encrypted-cookies/NANA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ## 2 *`⨷ SCAN QR`*
 <a href='https://qr-genrator-for-king-3996f7fcd90d.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -114,10 +114,6 @@
 
 #### Thanks To 
 
-1: Suhail Bro
-
-2: Zubair Bro
-
-3: SamPandy Bro
+1: Max Ni9e🍟
 
 #### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
